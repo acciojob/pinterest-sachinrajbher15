@@ -5,6 +5,7 @@
 }
 .hero-image{
 	width: 60%;
+	object-fit: cover;
 }
 .hero-content{
 	flex:1;
